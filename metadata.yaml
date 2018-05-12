@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/369
     wikipedia: http://en.wikipedia.org/wiki/William_Ernest_Henley
 description: Hawthorne and lavender -- London types -- Three prologues -- Epicedia.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21662#Hawthorn-and-Lavender-with-Other-Verses
 gutenberg_issued: '2007-06-01'
 gutenberg_type: Text
 identifiers:
